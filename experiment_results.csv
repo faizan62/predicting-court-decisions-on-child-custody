@@ -1,0 +1,6 @@
+﻿"Model,Accuracy,F1 Score,Kappa Score"
+"Random Forest,0.82,0.80,0.78"
+"SVM,0.79,0.77,0.75"
+"Neural Network,0.84,0.83,0.81"
+"Decision Tree,0.76,0.74,0.72"
+"Logistic Regression,0.80,0.78,0.76"
